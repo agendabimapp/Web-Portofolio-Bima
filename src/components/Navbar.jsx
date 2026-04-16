@@ -24,7 +24,7 @@ const Navbar = () => {
   return (
     <div className="navbar py-7 flex items-center justify-between">
         <div className="logo">
-            <h1 className="text-3xl font-bold bg-white text-black p-1 md:bg-transparent md:text-black">
+            <h1 className="text-3xl font-bold bg-[#127bde] text-black p-1 md:bg-transparent md:text-black">
                 Portofolio 
             </h1>
         </div>
