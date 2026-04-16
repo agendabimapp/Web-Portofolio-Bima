@@ -18,7 +18,7 @@ export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "Survey and Analysis of Unit Price (AHSP) for East Java 2024East Java 2026 Unit Price Analysis Survey (AHSP)urvei Analisa Harga Satuan Pokok AHSP Jawa Timur 2026",
+    nama: "Survey and Analysis of Unit Price (AHSP) for East Java 2024East Java 2026 Unit Price Analysis Survey (AHSP) Survei Analisa Harga Satuan Pokok AHSP Jawa Timur 2026",
     desk: "A study focused on evaluating and structuring standard unit price analysis (AHSP) in East Java for 2026, supporting accurate cost estimation and effective planning in construction and infrastructure projects.",
     tools: ["Revit", "SPSS", "EXCEL"],
     category: "survey",
@@ -27,7 +27,7 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Internship at BBWS Bengawan Solo – Irrigation Network Improvement Project for the Bendo Irrigation Area (Phase III)stimate (RAB) for the Construction Project of Rumah Kepemimpinan Region IV Surabaya",
+    nama: "Internship at BBWS Bengawan Solo – Irrigation Network Improvement Project for the Bendo Irrigation Area (Phase III) stimate (RAB) for the Construction Project of Rumah Kepemimpinan Region IV Surabaya",
     desk: "Irrigation Network Improvement Project Bendo Irrigation Area Phase III Assisted in field surveys, data collection, and monitoring of irrigation network improvements, supporting engineers in evaluating system performance and ensuring construction activities met technical standards and project timelines.",
     tools: ["Revit", "SPSS", "EXCEL", "Surveying"],
     category: "experience",

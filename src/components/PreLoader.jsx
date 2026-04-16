@@ -18,7 +18,7 @@ const Preloader = () => {
             <div role="status">
                 <svg
                     aria-hidden="true"
-                    className="inline w-10 h-10 text-gray-300 animate-spin fill-blue-600"
+                    className="inline w-10 h-10 text-gray-300 animate-spin fill-black"
                     viewBox="0 0 100 101"
                     fill="none"
                 >
