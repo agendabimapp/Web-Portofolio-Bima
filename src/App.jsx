@@ -23,13 +23,13 @@ function App() {
             <img src={DataImage.HeroImage} alt="Hero Image" className="w-10 rounded-md" loading="lazy" />
             <h1 className="p-2">"Cara terbaik memprediksi masa depan adalah menciptakannya" -Abraham Lincoln</h1>
           </div>
-          <h1 className="text-5xl/tight text-[#0759a6] font-bold mb-6">Hi, I am Agenda Bima</h1>
-          <p className="text-base/loose mb-6 text-justify opacity-50">I am a student at the Sepuluh Nopember Institute of Technology with a strong interest in construction engineering, particularly in water resources infrastructure. I have mastered the basics of engineering drawing, cost planning calculations, and project implementation in the field. With my systematic analytical and problem-solving skills, I am able to work in a structured manner and make effective contributions. I am known as a disciplined, adaptable, and highly motivated individual who strives for continuous development.</p>
+          <h1 className="text-5xl/tight text-black font-bold mb-6">Hi, I am Agenda Bima</h1>
+          <p className="text-base/loose text-black mb-6 text-justify opacity-100">I am a student at the Sepuluh Nopember Institute of Technology with a strong interest in construction engineering, particularly in water resources infrastructure. I have mastered the basics of engineering drawing, cost planning calculations, and project implementation in the field. With my systematic analytical and problem-solving skills, I am able to work in a structured manner and make effective contributions. I am known as a disciplined, adaptable, and highly motivated individual who strives for continuous development.</p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
               href={`${import.meta.env.BASE_URL}CV_Agenda Bima Prabowo Putra.pdf`}
               download
-              className="bg-zinc-800 p-4 rounded-2xl hover:bg-zinc-700 text-white"
+              className="bg-black p-4 rounded-2xl hover:bg-zinc-700 text-white"
             >
               Download CV <i className="ri-download-line ri-lg"></i>
             </a>

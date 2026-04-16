@@ -39,19 +39,19 @@ const Navbar = () => {
         justify-center md:justify-start
         ${active ? "opacity-100" : "opacity-0 md:opacity-100"}`}>
                 <li>
-                    <a href="#" className="sm:text-lg text-base font-bold text-zinc-800">Home</a>
+                    <a href="#" className="sm:text-lg text-base font-bold text-black">Home</a>
                 </li>
                 <li>
-                    <a href="#tentang" className="sm:text-lg text-base font-bold text-zinc-800">About</a>
+                    <a href="#tentang" className="sm:text-lg text-base font-bold text-black">About</a>
                 </li>
                 <li>
-                    <a href="#proyek" className="sm:text-lg text-base font-bold text-zinc-800">Project</a>
+                    <a href="#proyek" className="sm:text-lg text-base font-bold text-black">Project</a>
                 </li>
                 <li>
-                    <a href="#skills" className="sm:text-lg text-base font-bold text-zinc-800">Skills</a>
+                    <a href="#skills" className="sm:text-lg text-base font-bold text-black">Skills</a>
                 </li>
                 <li>
-                    <a href="#kontak" className="sm:text-lg text-base font-bold text-zinc-800">Contact</a>
+                    <a href="#kontak" className="sm:text-lg text-base font-bold text-black-800">Contact</a>
                 </li>
             </ul>
     </div>
