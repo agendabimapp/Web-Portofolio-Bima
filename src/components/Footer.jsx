@@ -5,7 +5,7 @@ const Footer = () => {
     <div className="mt-32 py-4 flex md:flex-row flex-col gap-6 md:gap-0 justify-between items-center">
         <h1 className="text-2xl font-bold">Portofolio</h1>
          <div className="mt-2 py-4 text-center">
-            <h1>  © 2026 Gesang. All rights reserved.</h1>
+            <h1>  © 2026 Agenda Bima. All rights reserved.</h1>
         </div>
         <div className="flex items-center gap-3">
             <a href="#">

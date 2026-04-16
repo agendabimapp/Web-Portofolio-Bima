@@ -12,14 +12,13 @@ import Proyek2 from "/assets/proyek/proyek2.jpeg";
 import Proyek3 from "/assets/proyek/proyek4.jpg";
 import Proyek4 from "/assets/proyek/proyek3.jpeg";
 import Proyek5 from "/assets/proyek/proyek5.jpeg";
-import Proyek6 from "/assets/proyek/proyek6.jpeg";
-import Proyek7 from "/assets/proyek/proyek7.jpeg";
+
 
 export const listProyek = [
   {
     id: 1,
     gambar: Proyek1,
-    nama: "East Java 2026 Unit Price Analysis Survey (AHSP)urvei Analisa Harga Satuan Pokok AHSP Jawa Timur 2026",
+    nama: "Survey and Analysis of Unit Price (AHSP) for East Java 2024East Java 2026 Unit Price Analysis Survey (AHSP)urvei Analisa Harga Satuan Pokok AHSP Jawa Timur 2026",
     desk: "A study focused on evaluating and structuring standard unit price analysis (AHSP) in East Java for 2026, supporting accurate cost estimation and effective planning in construction and infrastructure projects.",
     tools: ["Revit", "SPSS", "EXCEL"],
     category: "survey",
@@ -28,10 +27,10 @@ export const listProyek = [
   {
     id: 2,
     gambar: Proyek2,
-    nama: "Cost Estimate (RAB) for the Construction Project of Rumah Kepemimpinan Region IV Surabaya",
-    desk: "A comprehensive budget plan outlining cost estimation, resource allocation, and financial planning for the development of Rumah Kepemimpinan Region IV in Surabaya, ensuring efficient and well-structured project execution.",
+    nama: "Internship at BBWS Bengawan Solo – Irrigation Network Improvement Project for the Bendo Irrigation Area (Phase III)stimate (RAB) for the Construction Project of Rumah Kepemimpinan Region IV Surabaya",
+    desk: "Irrigation Network Improvement Project Bendo Irrigation Area Phase III Assisted in field surveys, data collection, and monitoring of irrigation network improvements, supporting engineers in evaluating system performance and ensuring construction activities met technical standards and project timelines.",
     tools: ["Revit", "SPSS", "EXCEL", "Surveying"],
-    category: "engineering",
+    category: "experience",
     dad: "300",
   },
   {
@@ -46,36 +45,18 @@ export const listProyek = [
   {
     id: 4,
     gambar: Proyek4,
-    nama: "Project Technical Staff at BBWS Pemali Juana",
-    desk: "Involved in supporting technical aspects of infrastructure projects, including planning assistance, field supervision, and documentation, ensuring alignment with engineering standards and effective project implementation.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
+    nama: "Project TecWater Resources Engineering Staff at PT. Prima Jaya Konsulindo, PT. Globetek Glory Konsultan, and PT. Ika Adya Perkasa (KSO)hnical Staff at BBWS Pemali Juana",
+    desk: "IPT. Prima Jaya Konsulindo, PT. Globetek Glory Konsultan, and PT. Ika Adya Perkasa Joint Operation Contributed to water resources engineering projects through data analysis, technical reporting, and coordination with project teams to support planning, design, and implementation of infrastructure solutions.nvolved in supporting technical aspects of infrastructure projects, including planning assistance, field supervision, and documentation, ensuring alignment with engineering standards and effective project implementation.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Project Supervision", "Surveying", "Architectural Drawing"],
-    category: "supervision",
+    category: "experience",
     dad: "500",
   },
   {
-    id: 5,
-    gambar: Proyek5,
-    nama: "Internship - PT. NINDYA KARYA – PT. SAC NUSANTARA, KSO",
-    desk: "Participated in a joint operation construction project, contributing to technical coordination, site supervision, and project documentation while gaining hands-on experience in large-scale infrastructure development and collaborative project execution.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["Construction Project Understanding", "CSSTechnical Drawing & Documentation Review", "JavascriptSite Supervision & Field Observation"],
-    category: "experience",
-    dad: "600",
-  },
-  {
-    id: 6,
-    gambar: Proyek6,
-    nama: "Himpunan Mahasiswa Diploma Sipil ITS  (2024-2025)",
-    desk: "Actively involved in student organizational activities, contributing to program planning, teamwork, and the development of leadership and communication skills within the civil engineering academic community.rem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["Research Planning & Design", "Analytical & Critical ThinkingNextJS", "Leadership & Team Management"],
-    category: "experience",
-    dad: "700",
-  },
-  {
     id: 7,
-    gambar: Proyek7,
-    nama: "Askari Nusantara Group - Divis Chief Operation Officer",
+    gambar: Proyek5,
+    nama: "Askari Nusantara Group - Chief Education Officer",
     desk: "Led operational activities within the division, overseeing coordination, resource management, and execution of programs to ensure efficiency, strategic alignment, and successful organizational outcomes.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
-    tools: ["NextJSOperational Strategy & Execution", "TaiProcess Optimization & Efficiency Improvement", "FramerBusiness Process Analysismotion"],
+    tools: ["Operational Strategy & Execution", "Process Optimization & Efficiency Improvement", "FramerBusiness Process Analysismotion"],
     category: "experience",
     dad: "700",
   },

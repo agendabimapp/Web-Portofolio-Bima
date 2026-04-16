@@ -14,11 +14,11 @@ const Preloader = () => {
     if (!loading) return null;
 
     return (
-        <div className="w-screen h-screen fixed flex items-center justify-center bg-black z-9999">
+       <div className="fixed inset-0 flex items-center justify-center bg-white z-[9999]">
             <div role="status">
                 <svg
                     aria-hidden="true"
-                    className="inline w-10 h-10 text-gray-300 animate-spin fill-purple-600"
+                    className="inline w-10 h-10 text-gray-300 animate-spin fill-blue-600"
                     viewBox="0 0 100 101"
                     fill="none"
                 >
